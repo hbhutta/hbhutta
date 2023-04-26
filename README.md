@@ -1,17 +1,19 @@
-### .
+# Hi there 👋, I'm [John](https://rjkilpatrick.github.io)
 
-<!--
-https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969 (Beautify Github profile)
-**hbhutta/hbhutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 PhD at the University of Exeter, researching imaging through multi-mode fibres
+- 🙌 Python enthusiast
+- 🚀 Deep learning with PyTorch
+- 🌱 Learning Godot Engine
+- ✍️ Check out [my writings](https://rjkilpatrick.github.io/blog)
 
-Here are some ideas to get you started:
+## My Github stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![rjkilpatrick's stats](https://github-readme-stats.vercel.app/api?username=rjkilpatrick&layout=compact,show_icons=true,count_private=true)
+![rjkilpatrick's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjkilpatrick&layout=compact)
+
+## Connect with me
+
+[![John Kilpatrick | Twitter](https://img.shields.io/twitter/follow/rjkilpatrick1?style=flat-square)](https://www.twitter.com/rjkilpatrick1)
+[![John Kilpatrick | LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjkilpatrick)
+
+Or [create an issue](https://github.com/rjkilpatrick/rjkilpatrick/issues)
