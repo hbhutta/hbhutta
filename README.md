@@ -1,19 +1,19 @@
-# Hi there 👋, I'm [John](https://rjkilpatrick.github.io)
+# Hi there 👋, I'm [Haad](https://rjkilpatrick.github.io)
 
-- 🔭 PhD at the University of Exeter, researching imaging through multi-mode fibres
-- 🙌 Python enthusiast
-- 🚀 Deep learning with PyTorch
-- 🌱 Learning Godot Engine
-- ✍️ Check out [my writings](https://rjkilpatrick.github.io/blog)
+- 🔭 Mathematics at the University of British Columbia <!--, researching imaging through multi-mode fibres ! -->
+- 🙌 C++ enthusiast
+<!-- - 🚀 Deep learning with PyTorch ! -->
+<!-- - 🌱 Learning Godot Engine ! -->
+<!-- - ✍️ Check out [my writings](https://rjkilpatrick.github.io/blog) -->
 
 ## My Github stats
 
-![rjkilpatrick's stats](https://github-readme-stats.vercel.app/api?username=rjkilpatrick&layout=compact,show_icons=true,count_private=true)
-![rjkilpatrick's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjkilpatrick&layout=compact)
+![hbhutta's stats](https://github-readme-stats.vercel.app/api?username=hbhutta&layout=compact,show_icons=true,count_private=true)
+![hbhutta's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbhutta&layout=compact)
 
 ## Connect with me
 
-[![John Kilpatrick | Twitter](https://img.shields.io/twitter/follow/rjkilpatrick1?style=flat-square)](https://www.twitter.com/rjkilpatrick1)
-[![John Kilpatrick | LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjkilpatrick)
+<!-- [![John Kilpatrick | Twitter](https://img.shields.io/twitter/follow/rjkilpatrick1?style=flat-square)](https://www.twitter.com/rjkilpatrick1) -->
+[![Haad Bhutta | LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hbhutta)
 
-Or [create an issue](https://github.com/rjkilpatrick/rjkilpatrick/issues)
+Or [create an issue](https://github.com/hbhutta/hbhutta/issues)
