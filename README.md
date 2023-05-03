@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Haad](https://rjkilpatrick.github.io)
+# Hi there 👋, I'm [Haad](https://haadbhutta.xyz/)
 
 - 🔭 Mathematics at the University of British Columbia <!--, researching imaging through multi-mode fibres ! -->
 - 🙌 C++ enthusiast
